@@ -1,0 +1,21 @@
+{
+  "name": "timechange",
+  "version": "0.0.1",
+  "description": "Time change",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "time",
+    "timezone",
+    "hour",
+    "minute",
+    "time",
+    "change",
+    "rest",
+    "node"
+  ],
+  "author": "Malik Nurmatov <mnurmatov@gmail.com> (https://github.com/maliknurmatov)",
+  "license": "MIT"
+}
